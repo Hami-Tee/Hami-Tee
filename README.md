@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Hamilton Lumbani Tembo
-- 👀 I’m interested in ... Learning anything about technology
-- 🌱 I’m currently learning ... Android dev, UI/UX design, soon will switch on learning Node.js and React
-- 💞️ I’m looking to collaborate on ... Android developement (specifically with java)
--     I'm currently working on ... digital learning(resources) mobile app for high school students
+- 👋 Hi, I’m Lumbani Tembo
+- 👀 I’m interested in ... Learning anything tech-related
+- 🌱 I’m currently learning ... Vanilla CSS, React Js and Node.js
+- 💞️ I’m looking to collaborate on ... Web development gigs
+-     I'm currently working on ..... A website for a charitable NGO 
 - 📫 How to reach me ...on tembohamilton@gmail.com ,https://twitter.com/itsHamiTee, https://www.linkedin.com/in/hamilton-tembo
 
 <!---
