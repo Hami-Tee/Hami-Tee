@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lumbani Tembo
+- 👋 Hi, I’m Lumbani 
 - 👀 I’m interested in ... Learning anything tech-related
 - 🌱 I’m currently learning ... Vanilla CSS, React Js and Node.js
 - 💞️ I’m looking to collaborate on ... Web development gigs
