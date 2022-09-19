@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lumbani 
-- 👀 I’m interested in ... Learning anything tech-related
+- 👀 I’m interested in ... software dev...web dev....cyber security
 - 🌱 I’m currently learning ... Vanilla CSS, React Js and Node.js
-- 💞️ I’m looking to collaborate on ... Web development gigs
+- 💞️ I’m looking to collaborate on ... web dev & cyber security gigs
 - 📫 How to reach me ...on tembohamilton@gmail.com ,https://twitter.com/itsHamiTee, https://www.linkedin.com/in/hamilton-tembo
 
 <!---
