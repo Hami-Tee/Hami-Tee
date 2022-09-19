@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Learning anything tech-related
 - 🌱 I’m currently learning ... Vanilla CSS, React Js and Node.js
 - 💞️ I’m looking to collaborate on ... Web development gigs
--     I'm currently working on ..... A website for a charitable NGO 
 - 📫 How to reach me ...on tembohamilton@gmail.com ,https://twitter.com/itsHamiTee, https://www.linkedin.com/in/hamilton-tembo
 
 <!---
